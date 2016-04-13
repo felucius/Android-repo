@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeFastfood">
+        <item>American classic burger</item>
+        <item>Italia meets America cheese pizza</item>
+        <item>Not so french fries, french fries</item>
+        <item>New way mac and cheese</item>
+        <item>Crispy delicious onion rings</item>
+        <item>New italian style salami pizza</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleFastfood">
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>10</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="caloriesFastfood">
+        <item>600</item>
+        <item>960</item>
+        <item>580</item>
+        <item>670</item>
+        <item>500</item>
+        <item>700</item>
+    </string-array>
+
+    <string-array name="cookingTimeFastfood">
+        <item>30</item>
+        <item>15</item>
+        <item>25</item>
+        <item>20</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="descriptionFastfood">
+        <item>American classic hamburger. All americans love them. You probably too! Items needed for this dish:
+        - Bread - Meat - Lettuce - Tomatos - Baked onions - Pickles - Ketchup - Mayonaise</item>
+        <item>Delicious Italian mixed cheese pizza. Who does not love them mixed style nowadays!! Ingrediënts needed:
+        - Flour - Eggs - Cheese - Olives - Tomato - Pepperoni - Salt - Pepper - Chedder cheese</item>
+        <item>These french fries are going to turn you upside down. Very delicious. Items needed for the dish:
+        - Potatos - Salt - Pepper - Mayonaise - Ketchup</item>
+        <item>Realy a new way of mac and cheese. Founded out by the Belgium people. This delicious meal can be made with:
+        - Macaroni - Cheese - Ham - Salt - Pepper</item>
+        <item>Deepfried crispy onion rings. Fast, good and delicious. Make them yourself with the following ingrediënts:
+        - Onions - Tempura dough - Salt - Pepper</item>
+        <item>Italian salami pizza. Salami from authentic Italia. Items needed to make this delicious pizza:
+        - Flour - Eggs - Salami - Olives - Salt - Pepper - Tomato saus</item>
+    </string-array>
+</resources>

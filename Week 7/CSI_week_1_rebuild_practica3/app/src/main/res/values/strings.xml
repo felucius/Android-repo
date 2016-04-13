@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CSI_week_1_rebuild</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">Name: Maxime de Lange</string>
+    <string name="Gender">Gender: Male</string>
+    <string name="Age">Age: 24</string>
+    <string name="Bounty">Bounty: 99.99</string>
+    <string name="Detail">Details:</string>
+    <string name="Description">Description: This guy is not very dangerous.
+        He only tries to make an Android App with some flashy colours, but he fails horrible. Even a blind person can see that Green
+        is not the best color. He has been last seen with long hair and has a very pale face. It is more of the color white.</string>
+
+    <string name="title_activity_criminallist">criminallist</string>
+
+    <string name="title_activity_john_cena">JohnCena</string>
+    <string name="Name.2">Name: John Cena</string>
+    <string name="Gender.2">Gender: Male</string>
+    <string name="Age.2">Age: 44</string>
+    <string name="Bounty.2">Bounty: 9999999.99</string>
+    <string name="Detail.2">Details:</string>
+    <string name="Description.2">Description: This man is pure agression. Do not contact or talk to this person.
+        He is known for killing you instantly. Call us inmediatly when seeing this person</string>
+
+    <string name="title_activity_warriorblood">Warriorblood</string>
+    <string name="Name.3">Name: Warrior blood</string>
+    <string name="Gender.3">Gender: Unknown</string>
+    <string name="Age.3">Age: ??</string>
+    <string name="Bounty.3">Bounty: 5.22</string>
+    <string name="Detail.3">Details:</string>
+    <string name="Description.3">Description: This unknown creature is crazy. Legends say that he decapitates people randomly
+        Be very discreet and proceed with caustion. Call 911/112 inmediatly upon seeing this creature.</string>
+
+    <string name="title_activity_drunkenpitcher">Drunkenpitcher</string>
+    <string name="Name.5">Name: Drunken mc gee pitcher</string>
+    <string name="Gender.5">Gender: Male</string>
+    <string name="Age.5">Age: 18</string>
+    <string name="Bounty.5">Bounty: 0.67</string>
+    <string name="Detail.5">Details:</string>
+    <string name="Description.5">Description: This person is armed and dangerous. He is always drunk and does not know
+        what to do with his guns.. he does know what to do with alcohol. Proceed with caution and contact your local PD. </string>
+
+    <string name="Report">Report</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="Picture">Take picture</string>
+    <string name="GPS">GPS location</string>
+    <string name="Call">Call 113</string>
+    <string name="Back">Back</string>
+    <string name="Send">Send</string>
+    <string name="title_activity_john_cena_report">JohnCenaReport</string>
+    <string name="title_activity_warriorblood_report">WarriorbloodReport</string>
+    <string name="title_activity_drunken_pitcher_report">DrunkenPitcherReport</string>
+
+
+</resources>

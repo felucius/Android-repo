@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeLuxuryDishes">
+        <item>Delicious avocado soup with cooked crab</item>
+        <item>Beef rolled with baked potato and vegetables</item>
+        <item>Exotic coquilles with a light dressing</item>
+        <item>Rich flavoured crab-soup</item>
+        <item>Soft white fish with orange caviar eggs</item>
+        <item>Sweet rice with sauteded onions and light sweet dressing</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleLuxuryDishes">
+        <item>1</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="caloriesLuxuryDishes">
+        <item>250</item>
+        <item>180</item>
+        <item>280</item>
+        <item>320</item>
+        <item>400</item>
+        <item>290</item>
+    </string-array>
+
+    <string-array name="cookingTimeLuxuryDishes">
+        <item>45</item>
+        <item>80</item>
+        <item>50</item>
+        <item>40</item>
+        <item>40</item>
+        <item>25</item>
+    </string-array>
+
+    <string-array name="descriptionLuxuryDishes">
+        <item>Overpriced avocado soup with cooked crab. Altough it is delicious it is pricy and hard to make. But the ingrediënts
+        needed are: - Avocado - Salt - Pepper - Lobster - Maizena</item>
+        <item>Rolled beef with baked potatoes and smored vegetables. This delicious meal takes alot of time but is worth in the
+        long end. Items needed to make this dish are: - Potatoes - Beef - Basel - Carrots - Salt - Pepper - Brocolli</item>
+        <item>Exotic coquilles with a light dressing. This dish is hard to master, but once done. Very delicious. Items needed are:
+        - Scalps - Wine dressing - Basel - Bread - Salt - Pepper</item>
+        <item>Rich and delicious flavoured crab-soup. This soup is for whealthy people. If you make it. You will never want something
+        else. Ingrediënts needed: - Juice of a crab - Cooked crab - Salt - Pepper</item>
+        <item>Soft and very good white fish. Served with asparagus and orange caviar. This expensive and delicious meal can be made
+        with the following ingrediënts: - White fish - Asparagus - Salt - Pepper - Orange caviar eggs</item>
+        <item>Sweet and low fat rice with sauteded onions. This meal is for the master cooks. Master all cooking steps to make
+        the perfect rice. Items needed for this great dish are: - Rice - Onions - Dressing - Basel - Bread</item>
+    </string-array>
+</resources>

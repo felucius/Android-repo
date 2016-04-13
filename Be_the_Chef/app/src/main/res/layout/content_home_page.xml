@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="maximedelange.be_the_chef.HomePage"
+    tools:showIn="@layout/activity_home_page"
+    android:background="#5affffff">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="48dp"
+                android:text="@string/txtHomePage"
+                android:id="@+id/txtHomePage"
+                android:layout_marginLeft="0dp"
+                android:fontFamily="sans-serif"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:height="50px"
+                android:gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="-700px"
+            android:background="#00b1fcff"
+            android:gravity="top|center_horizontal"
+            android:layout_marginTop="40dp">
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="30dp">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal">
+
+                    <!--Regular dishes-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewRegularDishes"
+                        android:src="@mipmap/regulardishes"
+                        android:layout_column="0" />
+
+                    <!--Baking-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewBaking"
+                        android:src="@mipmap/baking"
+                        android:layout_column="1" />
+
+                    <!--Healthy-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewHealthy"
+                        android:src="@mipmap/healthy"
+                        android:layout_column="2" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="30dp">
+
+                    <!--Fastfood-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewFastfood"
+                        android:src="@mipmap/fastfood"
+                        android:layout_column="0" />
+
+                    <!--Luxury Dishes-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewLuxuryDishes"
+                        android:src="@mipmap/luxurydishes"
+                        android:layout_column="1" />
+
+                    <!--Snacks-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewSnacks"
+                        android:src="@mipmap/snacks"
+                        android:layout_column="2" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="30dp">
+
+                    <!--Settings-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewSettings"
+                        android:src="@mipmap/setting"
+                        android:layout_column="0" />
+
+                    <!--Add Recipe-->
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:id="@+id/viewCookbook"
+                        android:src="@mipmap/cookingbook"
+                        android:layout_column="1" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

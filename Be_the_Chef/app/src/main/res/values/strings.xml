@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Be_the_Chef</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="txtHomePage">Welcome to be the chef!</string>
+    <string name="title_activity_regular_dishes">RegularDishes</string>
+    <string name="title_activity_baking">Baking</string>
+    <string name="title_activity_healthy">Healthy</string>
+    <string name="title_activity_fastfood">Fastfood</string>
+    <string name="title_activity_luxury_dishes">LuxuryDishes</string>
+    <string name="title_activity_snacks">Snacks</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_cook_book">CookBook</string>
+    <string name="txtFrontPage">Be the Chef</string>
+    <string name="txtBaking">Bake it till you make it</string>
+    <string name="txtCookbook">Save all your favorite recipes</string>
+    <string name="txtFastfood">Quickly, fun and easy preperation</string>
+    <string name="txtHealthy">Think healthy thoughts</string>
+    <string name="txtLuxuryDishes">Quality over quantity</string>
+    <string name="txtRegularDishes">Easy prepared meals</string>
+    <string name="txtSettings">Change your personal settings</string>
+    <string name="txtSnacks">Easy for on the go</string>
+    <string name="title_activity_change_profile_picture">ChangeProfilePicture</string>
+    <string name="title_activity_change_name">ChangeName</string>
+    <string name="title_activity_rating">Rating</string>
+
+    <string name="txtAmountOfPersons">For amount of persons: </string>
+    <string name="title_activity_recepten_list">ReceptenList</string>
+    <string name="txtAmountOfCalories">Calories: </string>
+    <string name="txtAmountOfCookingTime">Cooking time: </string>
+    <string name="txtDescription">Description: </string>
+</resources>

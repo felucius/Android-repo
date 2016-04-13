@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Zelf toegevoegd -->
+    <!-- kleuren patroon voor crimineel maxime -->
+    <color name="orange_red">#ff3300</color>
+    <color name="yellow_red">#ffa31a</color>
+    <color name="dark_grey">#1e1e15</color>
+    <color name="off_white">#ffffff</color>
+
+    <!-- kleuren patroon voor crimineel john cena -->
+    <color name="light_blue">#4d4dff</color>
+    <color name="aqua_blue">#33ccff</color>
+    <color name="dark_blue">#000066</color>
+    <color name="off_white.3">#ffffff</color>
+
+    <!-- kleuren patroon voor crimineel warrior blood -->
+    <color name="blood_red">#ff0000</color>
+    <color name="dark_red">#990000</color>
+    <color name="dark_brown">#4d2600</color>
+    <color name="verdark_brown">#1a0d00</color>
+
+    <!-- kleuren patroon voor crimineel drunken pitcher -->
+    <color name="bright_green">#86b300</color>
+    <color name="mint_green">#33cc33</color>
+    <color name="dark_grey.2">#1e1e15</color>
+    <color name="off_white.2">#ffffff</color>
+</resources>

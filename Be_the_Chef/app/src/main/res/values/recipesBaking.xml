@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeBaking">
+        <item>Grandmas apple pie</item>
+        <item>Brownie</item>
+        <item>Carrot cake</item>
+        <item>Cheese cake with fruits</item>
+        <item>Rich chocolate cake</item>
+        <item>Old style chocolate chip cookie</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleBaking">
+        <item>8</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>10</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="caloriesBaking">
+        <item>550</item>
+        <item>600</item>
+        <item>380</item>
+        <item>490</item>
+        <item>500</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="cookingTimeBaking">
+        <item>60</item>
+        <item>80</item>
+        <item>70</item>
+        <item>60</item>
+        <item>90</item>
+        <item>45</item>
+    </string-array>
+
+    <string-array name="descriptionBaking">
+        <item>Delicious sweet and juice applie pie by grandmas recipe. Ingrediënts needed are:
+        - Apples - Flour - Cinnamon - Sugar - Eggs - Ice cream (for topping)</item>
+        <item>Soft and dark rich brownie. Traditional recipe. Items needed for this dish are:
+        - Nuts - Dark chocolate - Flour - Eggs - Sugar</item>
+        <item>Old fasioned carrot land cake. This cake is loved by anyone who loves sweets. Needed:
+        - Carrot - Flour - Sugar - Eggs - Frosting - Nuts - Raisins</item>
+        <item>New York cheese cake. Items needed for this dish are:
+        - Monchou - Flour - Sugar - Eggs - Strawberrys - Whipped cream</item>
+        <item>Rich delicious chocolate cake. This dish is for family sizes. Items needed to make the dish:
+        - Flour - Eggs - Sugar - Dark chocolate - Milk chocolate - Nuts</item>
+        <item>American style chocolate chip cookies. Who doesnt love them? Items needed:
+        - Milk chocolate - Raisins - Sugar - Flour - Eggs - White chocolate</item>
+    </string-array>
+</resources>

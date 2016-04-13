@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="maximedelange.be_the_chef.ReceptenList"
+    tools:showIn="@layout/activity_recepten_list">
+
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeName"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp">
+    </TextView>
+
+    <ImageView
+        android:layout_width="300dip"
+        android:layout_height="250dip"
+        android:id="@+id/recipeImageText"
+        android:scaleType="fitCenter"
+        android:layout_below="@+id/recipeName"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+    </ImageView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="@string/txtAmountOfPersons"
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeAmountOfPersonsText"
+        android:layout_below="@+id/recipeImageText"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="100dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeAmountOfPersonsTextPeople"
+        android:layout_below="@+id/recipeImageText"
+        android:layout_toRightOf="@+id/recipeAmountOfPersonsText"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="6dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="@string/txtAmountOfCalories"
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeCaloriesTextPeople"
+        android:layout_below="@+id/recipeAmountOfPersonsText"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="100dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeCaloriesText"
+        android:layout_below="@+id/recipeAmountOfPersonsText"
+        android:layout_toRightOf="@+id/recipeCaloriesTextPeople"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="6dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="@string/txtAmountOfCookingTime"
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeCookingTimeTextPeople"
+        android:layout_below="@+id/recipeCaloriesText"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="100dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeCookingTimeText"
+        android:layout_below="@+id/recipeCaloriesText"
+        android:layout_toRightOf="@+id/recipeCookingTimeTextPeople"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="6dip"
+        android:textSize="10dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="@string/txtDescription"
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeDescriptionTextPeople"
+        android:layout_below="@+id/recipeCookingTimeText"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="100dip"
+        android:textSize="20dp">
+    </TextView>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_width="wrap_content"
+        android:id="@+id/recipeDescriptionText"
+        android:layout_below="@+id/recipeDescriptionTextPeople"
+        android:layout_marginTop="3dip"
+        android:layout_marginLeft="6dip"
+        android:textSize="15dp">
+    </TextView>
+
+</RelativeLayout>

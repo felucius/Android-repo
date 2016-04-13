@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CSI_week_1_rebuild</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">Name: Maxime de Lange</string>
+    <string name="Gender">Gender: Male</string>
+    <string name="Age">Age: 24</string>
+    <string name="Bounty">Bounty: 99.99</string>
+    <string name="Detail">Details:</string>
+    <string name="Description">Description: This guy is not very dangerous.
+        He only tries to make an Android App with some flashy colours, but he fails horrible. Even a blind person can see that Green
+        is not the best color. He has been last seen with long hair and has a very pale face. It is more of the color white.</string>
+    <string name="Report">Report</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="Picture">Take picture</string>
+    <string name="GPS">GPS location</string>
+    <string name="Call">Call 113</string>
+    <string name="Back">Back</string>
+    <string name="Send">Send</string>
+</resources>

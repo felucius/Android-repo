@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Wendy Ferarri</item>
+        <item>Hans Pigmans</item>
+        <item>Jack the Flipper</item>
+        <item>James Tyson</item>
+        <item>John the Hacker</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS_LocationManager</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="XYZ">X: Y: Z:</string>
+    <string name="AccelerationMeter">The amazing eXcel-o-ramat0r</string>
+    <string name="Explanation">To notice the difference in the X, Y and Z coördinates,
+        try to move, jump or run around in circles. Have fun!</string>
+</resources>

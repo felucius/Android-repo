@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeHealthy">
+        <item>Healthy brocolli soup</item>
+        <item>Walnut and yoghurt with honey</item>
+        <item>Roast chicken with vegetables</item>
+        <item>Salmon with asparagus</item>
+        <item>Vegan pasta</item>
+        <item>Vegan tortilla</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleHealthy">
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="caloriesHealthy">
+        <item>250</item>
+        <item>150</item>
+        <item>250</item>
+        <item>180</item>
+        <item>280</item>
+        <item>290</item>
+    </string-array>
+
+    <string-array name="cookingTimeHealthy">
+        <item>30</item>
+        <item>10</item>
+        <item>40</item>
+        <item>25</item>
+        <item>45</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="descriptionHealthy">
+        <item>Healthy brocolli soup for the real healthy people. Items needed for this delicious dish:
+        - Brocolli - Sour cream - Maizena - Cucumber</item>
+        <item>Walnut and yoghurt with honey. Delicious after dinner snack. Items needed for this dish are:
+        - Greek yoghurt - Walnuts or regular nuts - Honey</item>
+        <item>Roast chicken with vegetables. This is a simple and delicious land meal. Ingrediënts needed:
+        - Chicken breast - Brocolli - Carrots - Colliflour - Butter</item>
+        <item>Salmon with asparagus. This light meal is great for a lunch. Items needed for this meal:
+        - Fresh salmon - Asparagus - Lemon - Vegetables - Salt - Pepper</item>
+        <item>Vegan pasta for the real vegetarians amons us. For this dish the following items are needed:
+        - Wheat pasta - Green peppers - Red peppers - Olives - Tomatos - Salt - Pepper</item>
+        <item>Vegan tortilla. A nice and juicy tortilla without any meat! Ingrediënts needed:
+        - Wraps - Tomatos - Salad - Cucumber - Avocado - Red peppers</item>
+    </string-array>
+</resources>

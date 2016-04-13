@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Zelf geimplementeerd -->
+
+    <!-- button style -->
+    <style name="buttonStyle">
+        <item name="android:textColor">#FFFFD900</item>
+        <item name="android:background">#ff6600</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <!-- button style 2-->
+    <style name="buttonStyle.2">
+        <item name="android:background">#ff0000</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <!-- button style 3 with margin -->
+    <style name="buttonStyle.3">
+        <item name="android:background">#ff0000</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginLeft">30dp</item>
+    </style>
+
+    <!-- button style 4 with margin -->
+    <style name="buttonStyle.4">
+        <item name="android:background">#ff0000</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginTop">350dp</item>
+        <item name="android:layout_marginLeft">-230dp</item>
+    </style>
+
+    <!-- button style 5 with margin -->
+    <style name="buttonStyle.5">
+        <item name="android:background">#ff0000</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginTop">350dp</item>
+        <item name="android:layout_marginLeft">175dp</item>
+    </style>
+
+    <!-- button style 6 with margin -->
+    <style name="buttonStyle.6">
+        <item name="android:background">#ff0000</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginTop">50dp</item>
+        <item name="android:layout_marginLeft">-150dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <!-- image view style -->
+    <style name="imageviewStyle">
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:layout_marginLeft">-275dp</item>
+    </style>
+
+    <!-- text style-->
+    <style name="textStyle">
+        <item name="android:textColor">#ffffe6</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <!-- text style 2 -->
+    <style name="textStyle.2">
+        <item name="android:textSize">10dp</item>
+    </style>
+
+    <!-- text background style -->
+    <style name="textbackgroundStyle">
+        <item name="android:background">#1a1a00</item>
+    </style>
+
+    <!-- picture background color-->
+    <style name="backgroundStyle">
+        <item name="android:background">#ff6600</item>
+    </style>
+
+    <!-- outer background color -->
+    <style name="outerBackgroundStyle">
+        <item name="android:background">#ff3300</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

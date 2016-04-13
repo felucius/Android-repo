@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Maxime</item>
+        <item>John Cena</item>
+        <item>Warrior blood</item>
+        <item>Drunken pitcher</item>
+    </string-array>
+
+</resources>

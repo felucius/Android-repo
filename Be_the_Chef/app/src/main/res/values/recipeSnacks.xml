@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeSnacks">
+        <item>Salty crunchy deepfried snacks</item>
+        <item>America style juice hotdogs</item>
+        <item>Exotic healthy yogurt with muesli and fruits</item>
+        <item>Rich flavoured yogurt with fresh fruit</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleSnacks">
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="caloriesSnacks">
+        <item>420</item>
+        <item>300</item>
+        <item>180</item>
+        <item>210</item>
+    </string-array>
+
+    <string-array name="cookingTimeSnacks">
+        <item>15</item>
+        <item>20</item>
+        <item>10</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="descriptionSnacks">
+        <item>Deepfried snacks. Everyone loves them when they are drunk. So do you. For these delicious party snacks you will need:
+        - Deepfried snacks - Salt - Pepper - Mayonaise - Ketchup</item>
+        <item>Real american style from New York meets the classics hot dogs. They are very juice and perfect to eat with friends.
+         Items needed for this dish are: - Buns - Hotdogs - Musterd - Ketchup - Salt - Pickles - Baked onions</item>
+        <item>Exotic and healthy yogurt snack. This is a nice snack for in the summer at home. If you want to make this yourself. You will
+        be needing the following ingrediëtns: - Muesli - Fruits - Greek yogurt - Raspberrys</item>
+        <item>Rich flavoured yogurt. This meal is light, easy to make and a real filler. It is also low carb. Making this dish requires:
+        - Yogurt - Mint leaves - Raspberrys</item>
+    </string-array>
+</resources>

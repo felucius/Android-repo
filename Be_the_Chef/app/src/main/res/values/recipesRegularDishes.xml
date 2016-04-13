@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipeRegularDishes">
+        <item>Mommas meatloaf</item>
+        <item>Italian spagetti with tomato saus</item>
+        <item>Chinese beed noodle</item>
+        <item>Quik and fast cheese lasagne</item>
+        <item>Spanish delicious paella</item>
+        <item>Indian style beef noodle</item>
+    </string-array>
+
+    <string-array name="forAmountOfPeopleRegularDishes">
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>12</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="caloriesRegularDishes">
+        <item>600</item>
+        <item>450</item>
+        <item>300</item>
+        <item>460</item>
+        <item>350</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="cookingTimeRegularDishes">
+        <item>120</item>
+        <item>30</item>
+        <item>50</item>
+        <item>20</item>
+        <item>80</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="descriptionRegularDishes">
+        <item>Delicious meatloaf. This meatloaf is filled with whitebread and spicy saus. Needed for this recipe are:
+        - Meat - Whitebread - Spicy saus - Butter - Tomato saus</item>
+        <item>Handy and easy made italian spagetti. Needed for this recipe are:
+        - Wheat spagetti - Tomatos - Basel - Cheese - Meat</item>
+        <item>Chinese beef noodle. For this recipe you need the following ingrediënts:
+        - Mi noodle - Carrots - Beef - Vegetables</item>
+        <item>Quik and fast delicious cheese lasagne. Needed ingrediënts for this recipe are:
+        - Lasagne leaves - Meat - Cheddar cheese - Blue cheese - Tomatos</item>
+        <item>Family size paella. for this recipe you need the following ingrediënts:
+        - Shripms - Yellow rice - Basel - Peas</item>
+        <item>Spicy indian beef noodle. For this quik and easy recipe you need the following:
+        - Mi noodle - Beef - Spicy saus - Vegetables</item>
+    </string-array>
+</resources>

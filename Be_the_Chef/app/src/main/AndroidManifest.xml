@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="maximedelange.be_the_chef">
+
+    <!-- Asking permission from the web -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomePage"
+            android:label="@string/title_activity_home_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegularDishes"
+            android:label="@string/title_activity_regular_dishes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Baking"
+            android:label="@string/title_activity_baking"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Healthy"
+            android:label="@string/title_activity_healthy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Fastfood"
+            android:label="@string/title_activity_fastfood"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LuxuryDishes"
+            android:label="@string/title_activity_luxury_dishes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Snacks"
+            android:label="@string/title_activity_snacks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Settings"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CookBook"
+            android:label="@string/title_activity_cook_book"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChangeProfilePicture"
+            android:label="@string/title_activity_change_profile_picture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChangeName"
+            android:label="@string/title_activity_change_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Rating"
+            android:label="@string/title_activity_rating"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReceptenList"
+            android:label="@string/title_activity_recepten_list"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
